@@ -5,3 +5,14 @@ As my and @VivekSoni's project for class 12, we created a game where one could p
 
 The Game of Hangman comprised of random countries where would would predict letters and based on the correctness the game would continue. 
 
+## Screenshots
+
+#### Admin Panel
+![ Admin panel ](https://raw.githubusercontent.com/bhargavyagnik/cppgamezone/main/img/admin.jpg)
+
+#### Question Panel
+Here you can add various questions from the admin panel that would be randomly chosen each time in the quiz
+![ Question panel ](https://raw.githubusercontent.com/bhargavyagnik/cppgamezone/main/img/saveques.jpg)
+
+#### Levels
+![ Level1 ](https://raw.githubusercontent.com/bhargavyagnik/cppgamezone/main/img/level1.jpg)
